@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '284776038@qq.com' => '284776038@qq.com' }
-  s.source           = { :git => 'https://github.com/284776038@qq.com/BBWIJKSDKPods.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/284776038/BBWIJKSDKPods.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
