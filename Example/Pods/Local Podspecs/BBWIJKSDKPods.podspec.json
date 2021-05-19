@@ -1,0 +1,22 @@
+{
+  "name": "BBWIJKSDKPods",
+  "version": "0.1.0",
+  "summary": "A short description of BBWIJKSDKPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/284776038@qq.com/BBWIJKSDKPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "284776038@qq.com": "284776038@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/284776038@qq.com/BBWIJKSDKPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BBWIJKSDKPods/Classes/**/*"
+}

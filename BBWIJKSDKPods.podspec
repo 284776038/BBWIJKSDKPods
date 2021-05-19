@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/284776038@qq.com/BBWIJKSDKPods'
+  s.homepage         = 'https://github.com/284776038/BBWIJKSDKPods'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '284776038@qq.com' => '284776038@qq.com' }

@@ -1,0 +1,6 @@
+framework module BBWIJKSDKPods {
+  umbrella header "BBWIJKSDKPods-umbrella.h"
+
+  export *
+  module * { export * }
+}
