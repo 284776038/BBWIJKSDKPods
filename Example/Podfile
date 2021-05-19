@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BBWIJKSDKPods_Tests' do
+  pod 'BBWIJKSDKPods', :path => '../'
+  
+  
+end
